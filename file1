@@ -1,4 +1,3 @@
-this is file1
-editing second line
-git practice is going on.
+git merge origin main
+git pull origin main
 git fetch command used to see the changes done in the remote repository without syncing it to local  repo.
