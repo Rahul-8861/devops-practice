@@ -1,3 +1,1 @@
 git merge origin main
-git pull origin main
-git fetch command used to see the changes done in the remote repository without syncing it to local  repo.
